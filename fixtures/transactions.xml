@@ -1,0 +1,16 @@
+<transactions>
+  <transaction>
+    <transaction_id>txn-004</transaction_id>
+    <transaction_date>2026-07-04</transaction_date>
+    <amount>90.25</amount>
+    <currency>gbp</currency>
+    <status>completed</status>
+  </transaction>
+  <transaction>
+    <transaction_id>txn-005</transaction_id>
+    <transaction_date>2026-07-05</transaction_date>
+    <amount>40.00</amount>
+    <currency>usd</currency>
+    <status>reversed</status>
+  </transaction>
+</transactions>

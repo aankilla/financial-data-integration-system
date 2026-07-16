@@ -1,0 +1,25 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "txn-001",
+      "transaction_date": "2026-07-01",
+      "amount": "125.50",
+      "currency": "usd",
+      "status": "completed"
+    },
+    {
+      "transaction_id": "txn-002",
+      "transaction_date": "2026-07-02",
+      "amount": "250.00",
+      "currency": "eur",
+      "status": "pending"
+    },
+    {
+      "transaction_id": "txn-003",
+      "transaction_date": "2026-07-03",
+      "amount": "-10.00",
+      "currency": "usd",
+      "status": "failed"
+    }
+  ]
+}

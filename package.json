@@ -1,0 +1,22 @@
+{
+  "name": "financial-data-integration-system",
+  "version": "1.0.0",
+  "description": "Financial Data Integration System built with Node.js",
+  "main": "financial_integration.js",
+  "scripts": {
+    "start": "node financial_integration.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "finance",
+    "integration",
+    "json",
+    "xml",
+    "sql"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "xml2js": "^0.6.2"
+  }
+}
