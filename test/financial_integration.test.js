@@ -13,7 +13,6 @@ test('validates a well-formed transaction record', () => {
     currency: 'usd',
     status: 'completed'
   });
-hjfgjhfjvhjn
   assert.equal(result.valid, true);
   assert.equal(result.reason, '');
 });
